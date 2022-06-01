@@ -1,7 +1,7 @@
 # Zhiyu Xia
 
 
-![self](https://s13ashell.github.io/img/self.png) {:width="400px"}
+![self](https://s13ashell.github.io/img/self.png =400)
 
 I'm a research engineer in Huawei TCS Lab. My research interests lie in resource allocation, decision tree complexity, combinatorial algorithm and quantum computing. I finished my Ph.D on Jan. 2022, under the supervising of prof. Xiaoming Sun. Before that, I received my bachelor's degree from Sichuan University in 2016.  
 
