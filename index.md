@@ -1,3 +1,7 @@
+---
+title-heading: false
+---
+
 # Zhiyu Xia
 
 <img src="https://s13ashell.github.io/img/self.png" width = "200" alt="self" />
